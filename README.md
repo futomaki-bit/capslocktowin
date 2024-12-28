@@ -1,5 +1,8 @@
 # capslocktowin
 
+Remape caps lock to windows key using .reg (regedit)
+Click .reg file just like installing any programs then reboot
+
 ```
 Windows Registry Editor Version 5.00
 
